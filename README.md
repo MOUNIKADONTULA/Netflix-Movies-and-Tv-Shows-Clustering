@@ -7,7 +7,7 @@ As of 2022-Q2, more than 220 million people had signed up for Netflix's online s
 By creating clusters, we will be able to comprehend the shows that are alike and different from one another. These clusters can be used to provide customers with individualized show recommendations based on their preferences.
 
 This project aims to classify and group Netflix shows into specific clusters in such a way that shows in the same cluster are similar to one another and shows in different clusters are different.
-## **9. Conclusion**
+## **Conclusion**
 * In this project, we worked on a text clustering problem wherein we had to classify/group the Netflix shows into certain clusters such that the shows within a cluster are similar to each other and the shows in different clusters are dissimilar to each other.
 * The dataset contained about 7787 records, and 12 attributes.
 * We began by dealing with the dataset's missing values and doing exploratory data analysis (EDA).
